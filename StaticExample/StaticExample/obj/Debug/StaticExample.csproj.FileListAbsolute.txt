@@ -1,0 +1,7 @@
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\bin\Debug\StaticExample.exe.config
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\bin\Debug\StaticExample.exe
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\bin\Debug\StaticExample.pdb
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\obj\Debug\StaticExample.csproj.AssemblyReference.cache
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\obj\Debug\StaticExample.csproj.CoreCompileInputs.cache
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\obj\Debug\StaticExample.exe
+C:\Users\hafizur\source\repos\StaticExample\StaticExample\obj\Debug\StaticExample.pdb
