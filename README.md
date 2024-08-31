@@ -1,0 +1,1 @@
+# CS_static_example
